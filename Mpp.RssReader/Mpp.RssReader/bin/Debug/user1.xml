@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <user name="Sasha">
+    <thread count="4" />
+    <channels>
+      <channel url="https://auto.onliner.by/feed" />
+      <channel url="https://lenta.ru/rss/news" />
+    </channels>
+    <filters>
+      <include method="or">
+        <item>Социум</item>
+        <item>Мир</item>
+      </include>
+      <exclude method="and">
+        <item>Беларус</item>
+        <item>пример</item>
+      </exclude>
+    </filters>
+  </user>
+</root>

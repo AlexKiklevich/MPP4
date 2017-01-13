@@ -1,0 +1,10 @@
+c:\users\sasha\documents\visual studio 2015\Projects\Mpp.RssReader\Mpp.RssReader\bin\Debug\Mpp.RssReader.exe.config
+c:\users\sasha\documents\visual studio 2015\Projects\Mpp.RssReader\Mpp.RssReader\bin\Debug\Mpp.RssReader.exe
+c:\users\sasha\documents\visual studio 2015\Projects\Mpp.RssReader\Mpp.RssReader\bin\Debug\Mpp.RssReader.pdb
+c:\users\sasha\documents\visual studio 2015\Projects\Mpp.RssReader\Mpp.RssReader\obj\Debug\Mpp.RssReader.csprojResolveAssemblyReference.cache
+c:\users\sasha\documents\visual studio 2015\Projects\Mpp.RssReader\Mpp.RssReader\obj\Debug\Mpp.RssReader.MainForm.resources
+c:\users\sasha\documents\visual studio 2015\Projects\Mpp.RssReader\Mpp.RssReader\obj\Debug\Mpp.RssReader.Properties.Resources.resources
+c:\users\sasha\documents\visual studio 2015\Projects\Mpp.RssReader\Mpp.RssReader\obj\Debug\Mpp.RssReader.csproj.GenerateResource.Cache
+c:\users\sasha\documents\visual studio 2015\Projects\Mpp.RssReader\Mpp.RssReader\obj\Debug\Mpp.RssReader.exe
+c:\users\sasha\documents\visual studio 2015\Projects\Mpp.RssReader\Mpp.RssReader\obj\Debug\Mpp.RssReader.pdb
+C:\Users\Sasha\documents\visual studio 2015\Projects\Mpp.RssReader\Mpp.RssReader\obj\Debug\Mpp.RssReader.FiltresSettigForm.resources
